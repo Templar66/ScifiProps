@@ -8,7 +8,7 @@ plugins:
 # --- Basic Site Settings ---
 title: "Scifi Props"
 description: "A central hub for the documentation of all my projects."
-url: "https://jthughes.github.io"
+url: "https://templar66.github.io"
 
 # --- Theme Settings ---
 # Enable dark mode by default
@@ -22,10 +22,10 @@ last_edit_time_format: "%b %e, %Y" # e.g., "Jul 11, 2025"
 # Adds an "Edit this page on GitHub" link to the footer
 gh_edit_link: true
 gh_edit_link_text: "Edit this page on GitHub."
-gh_edit_repository: "https://github.com/jthughes/jthughes.github.io"
+gh_edit_repository: "https://github.com/Templar66/templar66.github.io"
 gh_edit_branch: "main"
 
 # Variables
-baseurl: "/websitetest"
+baseurl: "/ScifiProps"
 imagesurl: "/gallery/images/"
 thumbsurl: "/gallery/thumbnails/"
